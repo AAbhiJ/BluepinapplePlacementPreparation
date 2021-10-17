@@ -1,3 +1,4 @@
+# Write a program to print all perfect numbers between 1 to n
 
 def generateMatrix(n):
     divisorMatrix = [[] for i in range(n+1)]

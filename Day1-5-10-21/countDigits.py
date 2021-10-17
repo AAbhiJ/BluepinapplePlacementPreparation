@@ -1,3 +1,5 @@
+# Find total occurrences of each digits (0-9) using function.
+
 def countDigits(number):
     counts = [0]*10
     print(f"cnt 1 {counts[0]}")
